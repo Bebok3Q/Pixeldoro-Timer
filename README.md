@@ -3,9 +3,9 @@
 ![App Screenshot](/assets/screenshot.png)  
 *A customizable productivity timer based on the Pomodoro Technique*
 
-[![GitHub release](https://img.shields.io/github/v/release/yourusername/PomodoroTimer)](https://github.com/Bebok3Q/Pixeldoro-Timer/releases)
+[![GitHub release](https://img.shields.io/github/v/release/Bebok3Q/Pixeldoro-Timer)](https://github.com/Bebok3Q/Pixeldoro-Timer/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/yourusername/PomodoroTimer/total)](https://github.com/Bebok3Q/Pixeldoro-Timer/releases)
+[![Downloads](https://img.shields.io/github/downloads/Bebok3Q/Pixeldoro-Timer/total)](https://github.com/Bebok3Q/Pixeldoro-Timer/releases)
 
 ## Features ✨
 - 🕒 **Preset Timers**: 25-minute work / 5-minute break (customizable)
